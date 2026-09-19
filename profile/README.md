@@ -1,15 +1,20 @@
 # General Machines AI
 
-Data and evaluation infrastructure for frontier AI.
+We build the data, evaluations, and benchmarks that make frontier AI systems more capable in the real world—across the agentic web and physical AI.
 
-We build datasets, evaluations, and benchmarks for agentic web and physical AI. Our first applied research arm is **Machine Commerce** — we benchmark AI shopping agents on real stores and turn those traces into evals that help labs build trustworthy commercial agents.
+Machine Commerce is our first applied arm. We benchmark shopping agents on real stores and study **agent-shoppability**: whether products and storefronts are discoverable, understandable, and usable by AI. Agentic Shopping Lab is research and evaluation only; it does not make real purchases or submit payments.
 
-Legal entity: Deepwork Labs Pte. Ltd. (Singapore). Brand: General Machines AI.
+## Active surfaces
 
-## Active work
-- **Agentic Shopping Lab** — research/eval lab for shopping agents on live stores (no real payment submission)
-- **Planogram / Banner / AI Alk / Website** — active product surfaces under the org
+- Agentic Shopping Lab
+- Planogram
+- Banner
+- AI Alk
+- Website
 
 ## Links
-- https://generalmachines.ai
-- https://machinecommerce.co
+
+- [generalmachines.ai](https://generalmachines.ai)
+- [machinecommerce.co](https://machinecommerce.co)
+
+*Deepwork Labs Pte. Ltd. (Singapore)*
